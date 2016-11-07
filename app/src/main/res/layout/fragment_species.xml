@@ -1,0 +1,44 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="com.ornithoaloreille.ornitho.view.SpeciesFragment">
+
+    <LinearLayout
+        android:id="@+id/species_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/species_fragment_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/h1"/>
+
+        <TextView
+            android:id="@+id/species_fragment_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/activity_horizontal_margin"
+            android:gravity="center_vertical"
+            style="@style/h2"/>
+
+        <TextView
+            android:id="@+id/species_fragment_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/activity_horizontal_margin"
+            style="@style/large_text"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/similar_species"
+            style="@style/h2"/>
+
+    </LinearLayout>
+
+</ScrollView>

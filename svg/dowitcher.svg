@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82.892693mm"
+   height="82.892693mm"
+   viewBox="0 0 293.71426 293.71425"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dowitcher.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="115.04876"
+     inkscape:cy="152.23882"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1337.4056,555.62592)">
+    <rect
+       style="fill:#829e6d;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect4379"
+       width="285.71426"
+       height="285.71426"
+       x="1341.4055"
+       y="-551.62592"
+       ry="29.94739"
+       inkscape:export-filename="E:\INFO\Ornitho\app\src\main\res\mipmap-mdpi\ornitho_launcher.png"
+       inkscape:export-xdpi="14.71"
+       inkscape:export-ydpi="14.71" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 1591.2064,-447.96083 c -1.7857,-5.08928 -37.6982,-17.77858 -45.1786,-23.48213 -7.4803,-5.70356 -1.3021,-23.04418 -22.1428,-22.58929 -20.8406,0.45488 -20.2109,24.77179 -24.0179,25.62499 -3.807,0.8532 -38.5255,7.96923 -58.3928,21.78572 -19.8673,13.81648 -35.5766,17.486 -55.625,20 -20.0484,2.51401 1.0785,3.05173 4.4643,5.17857 3.3859,2.12685 -17.8897,-1.12581 -9.9107,2.85714 7.9789,3.98296 21.8923,1.75802 37.4107,8.83929 15.5184,7.08128 47.4999,19.19643 59.3749,20.80358 0.5358,7.05357 -2.2894,13.14174 0.8929,24.01785 3.1823,10.87611 2.1298,33.35988 10.625,35.35714 8.4953,1.99726 20.4465,2.94643 27.5894,6.07143 0.7142,-1.78571 -4.3751,-3.92858 -4.3751,-3.92858 0,0 5.625,-0.62499 10.625,1.16072 -1.5178,-4.01786 -26.2014,-4.87877 -30.2678,-7.23214 -4.0665,-2.35337 -5.3786,-7.63652 -7.2645,-20.67091 -1.5987,-11.04906 -3.807,-25.40051 -2.1999,-34.50766 0,0 37.6764,-9.48679 49.1965,-22.5 11.5202,-13.01321 15.1299,-27.71196 15,-36.42857 -0.1299,-8.71661 -7.5893,-16.51786 -7.5893,-16.51786 31.9643,7.58928 49.6614,18.36321 51.7857,16.16071 z"
+       id="path4805"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzczzccczsczzcc" />
+  </g>
+</svg>

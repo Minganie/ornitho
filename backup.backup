@@ -1,0 +1,46 @@
+
+
+INSERT INTO groups VALUES (13, 'Limicoles - 2 mots ou plus', 'dowitcher', '009 Limicoles - 2+.mp3');
+INSERT INTO groups VALUES (14, 'Limicoles - 1 mot', 'dowitcher', '010 Limicoles - 1 mot.mp3');
+INSERT INTO groups VALUES (15, 'Pipit et cie', 'pipit', '011 Pipit et cie.mp3');
+INSERT INTO groups VALUES (27, 'Troglodytes', 'wren', '023 Troglodytes.mp3');
+INSERT INTO groups VALUES (28, 'Viréos', 'vireo', '024 Viréos.mp3');
+INSERT INTO groups VALUES (29, 'Merle et cie', 'robin', '025 Merle et cie.mp3');
+INSERT INTO groups VALUES (30, 'Fringillidés', 'finch', '026 Fringillidés.mp3');
+INSERT INTO groups VALUES (31, 'Grives', 'robin', '027 Grives.mp3');
+INSERT INTO groups VALUES (32, 'Parulines - à truc', 'warbler', '028 Parulines à truc.mp3');
+INSERT INTO groups VALUES (33, 'Parulines - bourdonnantes', 'warbler', '029 Parulines bourdonnantes.mp3');
+INSERT INTO groups VALUES (34, 'Parulines - roue qui couine', 'warbler', '030 Parulines - roue qui couine.mp3');
+INSERT INTO groups VALUES (35, 'Parulines - chant en deux parties', 'warbler', '031 Parulines - 2 parties.mp3');
+INSERT INTO groups VALUES (36, 'Parulines - twi twi twi tio', 'warbler', '032 Parulines - twi twi twi tio.mp3');
+INSERT INTO groups VALUES (37, 'Parulines - chant en trois parties', 'warbler', '033 Parulines - 3 parties.mp3');
+INSERT INTO groups VALUES (38, 'Moqueurs et cie', 'mockingbird', '034 Moqueurs et cie.mp3');
+INSERT INTO groups VALUES (39, 'Bizarroïdes', 'grouse', '037 Bizarroïdes.mp3');
+INSERT INTO groups VALUES (40, 'Hétéroclites', 'jay', '038 Hétéroclites.mp3');
+INSERT INTO groups VALUES (41, 'Bécasse et cie', 'woodcock', '035 Bécasse et cie.mp3');
+INSERT INTO groups VALUES (8, 'Limicoles - chevaliers', 'yellowlegs', '009 Limicoles - 2+.mp3');
+INSERT INTO groups VALUES (42, 'Hiboux et cie', 'owl', '036 Hiboux et cie.mp3');
+INSERT INTO groups VALUES (1, 'Rapaces', 'eagle', '002 Rapaces.mp3');
+INSERT INTO groups VALUES (2, 'Sternes', 'tern', '003 Sternes.mp3');
+INSERT INTO groups VALUES (3, 'Corvidés', 'crow', '004 Corvidés.mp3');
+INSERT INTO groups VALUES (4, 'Hérons', 'heron', '005 Hérons.mp3');
+INSERT INTO groups VALUES (5, 'Coulicous et cie', 'cuckoo', '006 Coulicous et cie.mp3');
+INSERT INTO groups VALUES (6, 'Râles et cie', 'rail', '007 Râles et cie.mp3');
+INSERT INTO groups VALUES (7, 'Autres oiseaux de marais', 'duck', '008 Autres - marais.mp3');
+INSERT INTO groups VALUES (9, 'Limicoles - bécassins', 'dowitcher', '010 Limicoles - 1 mot.mp3');
+INSERT INTO groups VALUES (10, 'Limicoles - pluviers', 'plover', '010 Limicoles - 1 mot.mp3');
+INSERT INTO groups VALUES (11, 'Limicoles - petits bécasseaux', 'sandpiper', '010 Limicoles - 1 mot.mp3');
+INSERT INTO groups VALUES (12, 'Limicoles - divers', 'whimbrel', '009 Limicoles - 2+.mp3');
+INSERT INTO groups VALUES (16, 'Ictéridés', 'grackle', '012 Ictéridés.mp3');
+INSERT INTO groups VALUES (17, 'Bruants - non mélodieux', 'sparrow', '013 Bruants - non mélodieux.mp3');
+INSERT INTO groups VALUES (18, 'Bruants - chanteurs', 'sparrow', '014 Bruants - chanteurs.mp3');
+INSERT INTO groups VALUES (19, 'Trilleurs', 'sparrow', '015 Trilleurs.mp3');
+INSERT INTO groups VALUES (20, 'Moucherolles et cie', 'flycatcher', '016 Moucherolles et cie.mp3');
+INSERT INTO groups VALUES (21, 'Sittelles', 'nuthatche', '017 Sittelles.mp3');
+INSERT INTO groups VALUES (22, 'Mésanges et cie', 'chickadee', '018 Mésanges et cie.mp3');
+INSERT INTO groups VALUES (23, 'Moineau et cie', 'house_sparrow', '019 Moineau et cie.mp3');
+INSERT INTO groups VALUES (24, 'Pics', 'woodpecker', '020 Pics.mp3');
+INSERT INTO groups VALUES (25, 'Siffleurs - classiques', 'cardinal', '021 Siffleurs - classiques.mp3');
+INSERT INTO groups VALUES (26, 'Siffleurs - originaux', 'meadowlark', '022 Siffleurs - originaux.mp3');
+
+

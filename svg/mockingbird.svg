@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82.892693mm"
+   height="82.892693mm"
+   viewBox="0 0 293.71426 293.71425"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mockingbird.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="179.9708"
+     inkscape:cy="147.46119"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3073.013,-614.64954)">
+    <rect
+       style="fill:#829e6d;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect4427"
+       width="285.71426"
+       height="285.71426"
+       x="-3362.7271"
+       y="618.64954"
+       ry="29.94739"
+       inkscape:export-filename="E:\INFO\Ornitho\app\src\main\res\mipmap-xxhdpi\mockingbirds.png"
+       inkscape:export-xdpi="44.119999"
+       inkscape:export-ydpi="44.119999"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.93927407px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 3287.1819,637.56258 c -5.7638,-2.48365 -10.7782,3.63862 -16.9654,5.10907 -6.1872,1.47045 -13.0594,-1.11391 -18.0223,0.83864 -4.963,1.95255 -7.1693,3.39005 -11.336,11.203 -4.1667,7.81296 -1.5242,13.20732 -9.2166,28.51368 -7.6923,15.30636 -33.5894,38.54944 -43.3516,58.48778 -9.7621,19.93833 -5.8625,36.14932 -13.8687,58.03372 -8.0063,21.8844 -20.7804,55.49396 -22.2384,70.37404 -1.458,14.88008 2.9677,23.58206 7.4254,6.61818 4.4577,-16.96387 10.731,-31.6161 17.0698,-51.26452 6.3388,-19.64843 19.9605,-40.2604 30.1602,-43.81844 0,0 -2.1338,10.27304 1.9145,12.05254 4.0482,1.7795 6.129,-7.55176 9.7281,-7.04455 3.5991,0.50721 5.0027,5.82922 7.6987,6.52946 2.696,0.70023 3.1522,-2.07387 5.7195,-1.07831 2.5673,0.99556 3.103,6.62524 3.103,6.62524 5.1995,-1.09024 1.3057,-10.35003 3.9416,-9.56048 2.6358,0.78955 1.2756,-3.96592 -0.4192,-5.19955 -1.6949,-1.23363 -5.0567,1.73298 -7.6317,1.00637 -2.5751,-0.72662 -6.5414,-5.03183 -6.5414,-5.03183 3.1868,-4.61251 23.656,-24.32294 34.0045,-34.21641 10.3487,-9.89346 14.5082,-29.69247 15.4344,-43.56207 0.9262,-13.8696 -0.3752,-25.38242 -1.5197,-31.45078 -0.3534,-1.87376 0.098,-9.10878 2.4964,-9.04292 4.2573,0.11689 13.0735,0.11412 13.0735,0.11412 -3.8546,-4.38825 -16.7896,-4.26267 -16.7896,-4.26267 0.1186,-3.14294 2.6199,-9.03959 5.7196,-12.48975 3.0997,-3.45015 10.4114,-7.48356 10.4114,-7.48356 z"
+       id="path7009"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzczzzzczzzczzsscczc" />
+  </g>
+</svg>

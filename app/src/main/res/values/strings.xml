@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ornitho à l\'oreille</string>
+    <string name="groups">Groupes de chants</string>
+    <string name="species">Espèces</string>
+    <string name="quizz">Quiz</string>
+    <string name="settigns">Réglages</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Ouvrir le volet de navigation</string>
+    <string name="close_drawer">Fermer le volet de navigation</string>
+    <string name="db_error">Incapable d\'accéder à la base de données</string>
+    <string name="similar_species">Espèces similaires</string>
+</resources>

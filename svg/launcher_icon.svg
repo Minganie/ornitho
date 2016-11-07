@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82.892693mm"
+   height="82.892693mm"
+   viewBox="0 0 293.71426 293.71426"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="launcher_icon.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-108.23389"
+     inkscape:cy="145.11161"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="1912"
+     inkscape:window-y="57"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-159.07674,-1121.0615)">
+    <rect
+       style="fill:#829e6d;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect4156"
+       width="285.71426"
+       height="285.71426"
+       x="163.07674"
+       y="1125.0615"
+       ry="29.94739"
+       inkscape:export-filename="E:\INFO\Ornitho\app\src\main\res\mipmap-mdpi\ornitho_launcher.png"
+       inkscape:export-xdpi="14.71"
+       inkscape:export-ydpi="14.71" />
+    <path
+       sodipodi:nodetypes="ssccsccsssssss"
+       inkscape:connector-curvature="0"
+       id="path4247"
+       d="m 329.68847,1221.2278 c -1.75492,-0.6073 -3.35696,0.016 -3.59241,1.397 l -21.62344,126.8911 c -5.50884,-3.5971 -11.70596,-6.6256 -18.13058,-8.8597 -23.6036,-8.1692 -44.59228,-3.908 -46.87846,9.5172 -2.28579,13.4239 14.99297,30.9272 38.59436,39.0958 23.60134,8.1686 44.58879,3.909 46.87796,-9.5138 0.34564,-2.0953 12.97452,-85.0385 19.28788,-126.5144 0.32424,-2.129 42.60196,21.9804 51.8204,40.6126 8.75985,17.7052 -20.34039,24.7973 -18.34531,27.5776 1.45213,2.0238 40.39696,-0.4616 35.61739,-28.3859 -1.74736,-10.2094 -13.35026,-24.2219 -26.83374,-36.2121 -18.62574,-16.5631 -40.46375,-29.9535 -41.48186,-30.3056 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.16586423;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\INFO\Ornitho\app\src\main\res\mipmap-xxxhdpi\ornitho_launcher.png"
+       inkscape:export-xdpi="67.866035"
+       inkscape:export-ydpi="67.866035" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.39900005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 373.68939,1145.3895 c -6.5346,0.088 -16.52141,4.3527 -26.40333,5.6517 -9.88192,1.299 -21.51825,-2.4066 -31.78997,3.9647 -10.27172,6.3713 -15.00422,12.8514 -17.28903,26.3888 -1.8916,11.2074 -11.6602,10.8781 -22.53656,18.4615 -5.77158,4.024 -15.90402,12.4474 -15.90402,12.4474 0,0 -38.80986,-64.2401 -42.1797,-64.6359 -3.36986,-0.3958 -2.23411,2.5614 -4.14038,4.3727 -1.90627,1.8113 -5.08343,-0.4573 -6.5383,3.7477 -1.05879,3.0603 15.16193,27.4706 24.33002,47.3569 3.42978,7.4394 4.69106,15.5346 5.40121,19.7767 2.60844,15.5816 2.17338,12.9483 -1.24515,17.8215 -1.31119,1.8691 -2.79448,6.3595 5.88131,3.689 1.83715,-0.5655 2.83704,6.8295 8.99062,11.1891 6.87523,4.8708 20.31057,5.028 22.63386,8.5846 2.32329,3.5564 -1.51409,8.1913 1.61981,12.3627 0.92706,1.2339 7.17779,5.6522 10.97689,9.6586 9.0436,9.5373 14.87914,19.4137 24.78941,26.2363 3.18512,2.1928 10.72036,4.4332 10.72036,4.4332 l -3.06844,-4.8091 11.24544,1.0823 -9.96146,-5.6847 2.01398,-5.53 c 0,0 -5.27221,4.0089 -12.71599,0.6181 -4.49667,-2.0484 -13.07351,-10.4461 -18.3983,-16.3974 -3.48987,-3.9004 -5.10991,-5.8838 -5.79739,-11.3306 -0.68748,-5.4468 3.4305,-7.0484 9.7136,-11.3031 6.2831,-4.2547 18.17318,-9.5214 25.07874,-15.8949 3.83896,-3.5432 8.14952,-9.389 10.70864,-13.4118 1.01438,-1.5945 4.89591,-0.4632 9.89121,2.2842 0.37465,-2.7474 -6.5479,-7.359 -6.5479,-7.359 0,0 8.3001,2.3878 11.92171,5.6349 -0.99907,-3.8715 -10.45341,-9.4272 -10.08754,-9.9867 4.11982,-6.2998 7.73551,-7.0579 10.78213,-14.9564 3.04662,-7.8985 -5.1e-4,-18.0324 2.47255,-23.8424 2.47306,-5.81 4.72547,-9.1161 9.97852,-11.5682 5.25305,-2.452 21.54653,1.8546 22.07637,1.2365 -0.52984,-1.7661 -16.01975,-6.3731 -21.81145,-7.4178 -5.7917,-1.0447 -10.38312,1.7204 -12.98091,-2.1193 -0.93933,-1.3883 1.41339,-5.0564 6.09309,-9.3603 4.67969,-4.3039 22.07635,-11.3915 22.07635,-11.3915 z"
+       id="path4262"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzssczzsssssszssacccccsszzsscccszzzczszc"
+       inkscape:export-filename="E:\INFO\Ornitho\app\src\main\res\mipmap-xxxhdpi\ornitho_launcher.png"
+       inkscape:export-xdpi="67.866035"
+       inkscape:export-ydpi="67.866035" />
+  </g>
+</svg>
