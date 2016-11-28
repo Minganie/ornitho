@@ -104,11 +104,11 @@ public class GroupAdapter extends RecyclerView.Adapter<GroupAdapter.ViewHolder> 
             return 0;
     }
 
-    public void closeCursor() {
-        if(cursor != null) {
-            cursor.close();
-            cursor = null;
-        }
-    }
+//    public void closeCursor() {
+//        if(cursor != null) {
+//            cursor.close();
+//            cursor = null;
+//        }
+//    }
 
 }

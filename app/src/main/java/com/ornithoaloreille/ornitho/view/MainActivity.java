@@ -121,6 +121,10 @@ public class MainActivity extends Activity implements
             selectItem(savedInstanceState.getInt("where"), savedInstanceState);
         }
     }
+    //test
+    public ActionBarDrawerToggle getDrawerToggle() {
+        return drawerToggle;
+    }
 
 
     //----------------------------------------------------------------------------------------------
@@ -204,13 +208,18 @@ public class MainActivity extends Activity implements
                 fragment = gf;
                 break;
             case SPECIES_FRAGMENT:
-            default:
                 species = bundle.getParcelable("species");
                 SpeciesFragment sf = new SpeciesFragment();
                 sf.setSpecies(species);
                 actionBarTitle = species.getName();
                 fragment = sf;
                 break;
+            case 0:
+            default:
+                GroupListFragment glf = new GroupListFragment();
+                glf.setContext(this);
+                actionBarTitle = glf.TITLE;
+                fragment = glf;
         }
 
         if(getActionBar() != null)

@@ -78,7 +78,8 @@ public class GroupListFragment extends Fragment implements LoaderManager.LoaderC
     @Override
     public void onDestroy() {
         super.onDestroy();
-        adapter.closeCursor();
+//        adapter.closeCursor();
+//        adapter = null;
     }
 
     private void fillView() {
@@ -110,7 +111,7 @@ public class GroupListFragment extends Fragment implements LoaderManager.LoaderC
     @Override
     public void onLoaderReset(Loader<Cursor> loader) {
         if(loader.getId() == GROUP_STUB_LOADER && adapter != null) {
-            adapter.closeCursor();
+//            adapter.closeCursor();
         }
     }
 }

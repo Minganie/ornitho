@@ -82,7 +82,7 @@ public class SpeciesListFragment extends Fragment implements LoaderManager.Loade
     @Override
     public void onDestroy() {
         super.onDestroy();
-        adapter.closeCursor();
+//        adapter.closeCursor();
     }
 
     private void fillView() {
@@ -116,7 +116,7 @@ public class SpeciesListFragment extends Fragment implements LoaderManager.Loade
     @Override
     public void onLoaderReset(Loader<Cursor> loader) {
         if(loader.getId() == SPECIES_STUB_LOADER && adapter != null) {
-            adapter.closeCursor();
+//            adapter.closeCursor();
         }
     }
 }

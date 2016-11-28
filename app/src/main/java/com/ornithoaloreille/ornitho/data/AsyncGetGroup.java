@@ -30,6 +30,8 @@ public class AsyncGetGroup extends AsyncTask<GroupStub, Void, Group> {
         );
 
         Group group = Group.getGroup(groupStub[0], subgroupCursor, mainActivity);
+        subgroupCursor.close();
+        subgroupCursor = null;
 
         return group;
     }

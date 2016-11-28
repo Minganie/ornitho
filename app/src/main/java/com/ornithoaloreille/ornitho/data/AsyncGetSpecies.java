@@ -32,6 +32,8 @@ public class AsyncGetSpecies extends AsyncTask<SpeciesStub, Void, Species> {
         );
 
         Species species = Species.getSpecies(speciesStubs[0], cursor);
+        cursor.close();
+        cursor = null;
 
         return species;
     }

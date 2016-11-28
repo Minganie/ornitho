@@ -101,10 +101,10 @@ public class SpeciesAdapter extends RecyclerView.Adapter<SpeciesAdapter.ViewHold
             return 0;
     }
 
-    public void closeCursor() {
-        if(cursor != null) {
-            cursor.close();
-            cursor = null;
-        }
-    }
+//    public void closeCursor() {
+//        if(cursor != null) {
+//            cursor.close();
+//            cursor = null;
+//        }
+//    }
 }
